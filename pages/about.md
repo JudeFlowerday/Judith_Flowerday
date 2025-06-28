@@ -6,6 +6,6 @@ permalink: /about
 
 ## Judith's Portfolio
 
-<u>A little about myself</>
+<u>A little about myself</u>
 
 
