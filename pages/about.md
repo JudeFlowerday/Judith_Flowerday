@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Judith's Portfolio
+## Judith's Portfolio
 
-Isn't it great ?
+#A little about myself
