@@ -6,6 +6,6 @@ permalink: /about
 
 ## Judith's Portfolio
 
-<strong>A little about myself</strong>
-
+<strong></strong>
+<u>freelance software developer</u>
 
